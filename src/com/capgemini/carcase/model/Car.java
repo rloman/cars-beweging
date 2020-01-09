@@ -7,9 +7,9 @@ public class Car {
      String brand;
      double mileage;
 
-     double fuelLevel;
+     public double fuelLevel;
 
-     double drive() {
+     public double drive() {
 
          System.out.println("Driving car ... ");
 
@@ -23,7 +23,7 @@ public class Car {
          return brand;
      }
 
-     void fillFuelTank(double fuel) {
+     public void fillFuelTank(double fuel) {
 
          if(fuel + fuelLevel > 55 ){
              return;
