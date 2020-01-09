@@ -1,3 +1,7 @@
+package com.capgemini.carcase.variables;
+
+import com.capgemini.carcase.model.Car;
+
 public class Application {
 
     public static void main(String[] args) {
@@ -32,5 +36,33 @@ public class Application {
         } else {
             // walk();
         }
+
+        Car myCar = new Car();
+
+        double m = myCar.drive();
+
+        System.out.println(m);
+
+        m = myCar.drive();
+
+        System.out.println(m);
+
+        myCar.fillFuelTank(33.5);
+
+        System.out.println(myCar.fuelLevel);
+        myCar.fillFuelTank(33.5);
+
+        System.out.println(myCar.fuelLevel);
+
+        myCar.fillFuelTank(33.5);
+
+        System.out.println(myCar.fuelLevel);
+        myCar.fillFuelTank(33.5);
+
+        System.out.println(myCar.fuelLevel);
+        myCar.fillFuelTank(33.5);
+
+        System.out.println(myCar.fuelLevel);
+
     }
 }
