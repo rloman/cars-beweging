@@ -1,4 +1,4 @@
-package com.capgemini.carcase.answers;
+package com.capgemini.carcase.answers.methods;
 
 public class Monkey {
 
