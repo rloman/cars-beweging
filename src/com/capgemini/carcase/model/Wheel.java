@@ -5,6 +5,8 @@ public class Wheel {
     // field. instance variable. attribute.
     private int size; // filled with a default value when created
 
+    private byte price;
+
 
 
     public void fit() {
