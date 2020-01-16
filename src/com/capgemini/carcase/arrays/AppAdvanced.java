@@ -28,17 +28,5 @@ public class AppAdvanced {
         for(String name: names) {
             System.out.println("A member of the group is: "+name);
         }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
