@@ -3,7 +3,7 @@ package com.capgemini.carcase.inheritance;
 public class App {
 
     public static void main(String[] args) {
-        Truck myTruck = new Truck("VB4553");
+        Truck myTruck = new Truck();
 
         myTruck.setColor("Green");
 
@@ -16,7 +16,7 @@ public class App {
 
         System.out.println(myTruck.getMileage());
 
-        Truck anOtherTruck = new Truck("GZ7737");
+        Truck anOtherTruck = new Truck();
 
 
         System.out.println(myTruck.getLicensePlate());
