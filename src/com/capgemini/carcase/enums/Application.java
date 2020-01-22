@@ -18,6 +18,6 @@ public class Application {
             System.out.println(oneValue.ordinal());
         }
 
-        System.out.println(Size.LARGE.getSize());
+//        System.out.println(Size.LARGE.getSize());
     }
 }
