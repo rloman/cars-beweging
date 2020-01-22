@@ -15,9 +15,5 @@ public class BoyApp {
 
         System.out.println(theName);
 
-
-
-
-
     }
 }
