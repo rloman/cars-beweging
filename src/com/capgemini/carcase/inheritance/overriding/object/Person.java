@@ -1,4 +1,4 @@
-package com.capgemini.carcase.object;
+package com.capgemini.carcase.inheritance.overriding.object;
 
 public class Person {
 

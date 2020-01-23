@@ -1,4 +1,4 @@
-package com.capgemini.looping.forloop;
+package com.capgemini.carcase.looping.forloop;
 
 public class Application {
 
