@@ -1,4 +1,4 @@
-package com.capgemini.carcase.branching.switching.answers;
+package com.capgemini.carcase.answers.switching;
 
 public class Application {
 

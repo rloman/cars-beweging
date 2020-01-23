@@ -1,4 +1,4 @@
-package com.capgemini.carcase.overriding;
+package com.capgemini.carcase.polymorphism.overriding;
 
 public class Racecar extends Car {
 
