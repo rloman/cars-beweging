@@ -1,8 +1,26 @@
 package com.capgemini.carcase.inheritance.polymorphism.assignment;
 
-public class Human {
+public  abstract class Human {
 
-    public void walk() {
-        System.out.println("Walking Human ...");
+    private String name;
+
+    public Human(String name) {
+        this.name = name;
     }
+
+    public Human() {
+
+    }
+
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public  abstract void walk();
+
 }
