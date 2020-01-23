@@ -1,4 +1,4 @@
-package com.capgemini.carcase.object;
+package com.capgemini.carcase.overriding.object;
 
 public class App {
 
