@@ -1,4 +1,4 @@
-package com.capgemini.carcase.constructors;
+package com.capgemini.carcase.constructor;
 
 public class Car {
 
