@@ -1,4 +1,4 @@
-package com.capgemini.carcase.polymorphism;
+package com.capgemini.carcase.inheritance.polymorphism;
 
 public class App {
 
