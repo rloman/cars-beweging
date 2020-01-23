@@ -12,11 +12,11 @@ public class App {
 
         Human student = new Student();
 
-        Human femaleDrinker = new FemaleDrinker();
+        Human wineDrinker = new WineDrinker();
 
         HumanDoctor doctor = new HumanDoctor();
 
-        Human[] people = new Human[]{human, female, student, femaleDrinker};
+        Human[] people = new Human[]{human, female, student, wineDrinker};
 
         doctor.walkAll(people);
 
