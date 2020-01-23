@@ -1,4 +1,4 @@
-package com.capgemini.looping.fancy;
+package com.capgemini.carcase.looping.fancy;
 
 public class Application {
 

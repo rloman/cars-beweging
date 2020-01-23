@@ -1,4 +1,4 @@
-package com.capgemini.looping.whileloop;
+package com.capgemini.carcase.looping.whileloop;
 
 public class Application {
 
