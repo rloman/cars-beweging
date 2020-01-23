@@ -1,4 +1,4 @@
-package com.capgemini.carcase.polymorphism.overriding;
+package com.capgemini.carcase.inheritance.overriding;
 
 public class App {
 
