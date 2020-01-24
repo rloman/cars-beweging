@@ -6,7 +6,7 @@ import com.capgemini.carcase.inheritance.polymorphism.assignment.Human;
 public class App {
 
     public static void main(String[] args) {
-        // fout
+      
         Television tv = new Samsung();
 
         System.out.println(tv.on());
