@@ -1,7 +1,5 @@
 package com.capgemini.interfaces;
 
-import java.util.List;
-
 public class Samsung implements Television {
 
     private boolean on;
