@@ -2,7 +2,7 @@ package com.capgemini.interfaces;
 
 import java.util.List;
 
-public class Samsung implements Television, Iterable, Comparable, List {
+public class Samsung implements Television {
 
     private boolean on;
 

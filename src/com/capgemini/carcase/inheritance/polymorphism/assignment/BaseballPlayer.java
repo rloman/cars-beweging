@@ -9,4 +9,8 @@ public class BaseballPlayer extends Human {
         System.out.println("Walking baseballplayer ... ");
 
     }
+
+    public void foo() {
+
+    }
 }

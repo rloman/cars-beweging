@@ -6,4 +6,5 @@ public interface Television {
     void off();
     int switchChannel(int newChannel);
     /* public abstract */ int getCurrentChannel();
+
 }
