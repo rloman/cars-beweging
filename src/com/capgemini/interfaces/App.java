@@ -19,5 +19,11 @@ public class App {
 
         System.out.println(tv.getCurrentChannel());
 
+        Television panasonic = new Panasonic();
+
+        panasonic.on();
+
+        System.out.println(panasonic.switchChannel(3));
+
     }
 }
